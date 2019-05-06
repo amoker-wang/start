@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e2e3ddf-bf95-42f9-bfc2-0578b41d80ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="7e2e3ddf-bf95-42f9-bfc2-0578b41d80ce" name="Default Changelist" comment="delete extra lib">
       <change beforePath="$PROJECT_DIR$/.idea/first.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/first.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,23 +14,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maoyanMovie/MaoYan.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/maoyanMovie/result.txt">
+        <entry file="file://$PROJECT_DIR$/qiuzhi/qiuzhi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+            <state relative-caret-position="218">
+              <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#4#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -46,7 +35,13 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>config</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -66,22 +61,31 @@
         <option value="$PROJECT_DIR$/re-test.py" />
         <option value="$PROJECT_DIR$/maoyanMovie/index.py" />
         <option value="$PROJECT_DIR$/maoyanMovie/MAOYAN.py" />
-        <option value="$PROJECT_DIR$/maoyanMovie/MaoYan.py" />
         <option value="$PROJECT_DIR$/maoyanMovie/result.txt" />
+        <option value="$PROJECT_DIR$/maoyanMovie/MaoYan.py" />
+        <option value="$PROJECT_DIR$/weibo/index.py" />
+        <option value="$PROJECT_DIR$/toutiao/index.py" />
+        <option value="$PROJECT_DIR$/toutiao/jiepai.py" />
+        <option value="$PROJECT_DIR$/TaobaoProduct/ghostdriver.log" />
+        <option value="$PROJECT_DIR$/TaobaoProduct/spider.py" />
+        <option value="$PROJECT_DIR$/qiuzhi/qiuzhi.py" />
+        <option value="$PROJECT_DIR$/qiuzhi/config.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="895" />
-    <option name="y" value="111" />
+    <option name="y" value="110" />
     <option name="width" value="960" />
     <option name="height" value="935" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -92,29 +96,36 @@
             <path>
               <item name="start" type="b2602c69:ProjectViewProjectNode" />
               <item name="start" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="start" type="b2602c69:ProjectViewProjectNode" />
-              <item name="start" type="462c0819:PsiDirectoryNode" />
               <item name="maoyanMovie" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="start" type="b2602c69:ProjectViewProjectNode" />
               <item name="start" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="qiuzhi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="start" type="b2602c69:ProjectViewProjectNode" />
+              <item name="start" type="462c0819:PsiDirectoryNode" />
+              <item name="TaobaoProduct" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="first" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="first" />
+      </console-settings>
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -128,7 +139,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MaoYan">
+  <component name="RunManager" selected="Python.qiuzhi">
     <configuration name="MaoYan" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="first" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="index (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="first" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,12 +170,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/maoyanMovie" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/toutiao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/maoyanMovie/index.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/toutiao/index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="proxy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="jiepai" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="first" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,12 +192,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/toutiao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proxy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/toutiao/jiepai.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,7 +206,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="re-test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="qiuzhi" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="first" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,12 +214,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/qiuzhi" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/re-test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qiuzhi/qiuzhi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,7 +228,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="timeout" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="first" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,12 +236,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TaobaoProduct" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/timeout.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TaobaoProduct/spider.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,19 +251,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.proxy" />
-      <item itemvalue="Python.timeout" />
-      <item itemvalue="Python.re-test" />
-      <item itemvalue="Python.index" />
       <item itemvalue="Python.MaoYan" />
+      <item itemvalue="Python.index (1)" />
+      <item itemvalue="Python.jiepai" />
+      <item itemvalue="Python.spider" />
+      <item itemvalue="Python.qiuzhi" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.qiuzhi" />
+        <item itemvalue="Python.spider" />
+        <item itemvalue="Python.jiepai" />
+        <item itemvalue="Python.index (1)" />
         <item itemvalue="Python.MaoYan" />
-        <item itemvalue="Python.index" />
-        <item itemvalue="Python.re-test" />
-        <item itemvalue="Python.timeout" />
-        <item itemvalue="Python.proxy" />
       </list>
     </recent_temporary>
   </component>
@@ -267,23 +278,49 @@
       <option name="presentableId" value="Default" />
       <updated>1555653927143</updated>
       <workItem from="1556036362257" duration="362000" />
-      <workItem from="1556036755906" duration="16000" />
+      <workItem from="1556036755906" duration="314000" />
+      <workItem from="1556206776750" duration="5143000" />
+      <workItem from="1556628311760" duration="599000" />
+      <workItem from="1556799470762" duration="5102000" />
+      <workItem from="1557148096017" duration="6825000" />
     </task>
+    <task id="LOCAL-00001" summary="delete extra lib">
+      <created>1556036951206</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556036951206</updated>
+    </task>
+    <task id="LOCAL-00002" summary="delete extra lib">
+      <created>1556211888660</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556211888660</updated>
+    </task>
+    <task id="LOCAL-00003" summary="delete extra lib">
+      <created>1557160538257</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557160538258</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="378000" />
+    <option name="totallyTimeSpent" value="18345000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.060321715" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17828418" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.11033519" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34669557" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5907821" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -298,7 +335,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="right" id="R Packages" order="4" />
+      <window_info anchor="right" id="R Packages" order="4" weight="0.3297587" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="SciView" order="6" />
     </layout>
@@ -306,8 +343,19 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/TaobaoProduct" />
+    </ignored-roots>
+    <MESSAGE value="delete extra lib" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete extra lib" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/start$MaoYan.coverage" NAME="MaoYan Coverage Results" MODIFIED="1556036811145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/maoyanMovie" />
+    <SUITE FILE_PATH="coverage/start$qiuzhi.coverage" NAME="qiuzhi Coverage Results" MODIFIED="1557151587228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/qiuzhi" />
+    <SUITE FILE_PATH="coverage/start$jiepai.coverage" NAME="jiepai Coverage Results" MODIFIED="1556211662202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/toutiao" />
+    <SUITE FILE_PATH="coverage/start$MaoYan.coverage" NAME="MaoYan Coverage Results" MODIFIED="1556209714750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/maoyanMovie" />
+    <SUITE FILE_PATH="coverage/start$spider.coverage" NAME="spider Coverage Results" MODIFIED="1556801063012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TaobaoProduct" />
+    <SUITE FILE_PATH="coverage/start$index__1_.coverage" NAME="index (1) Coverage Results" MODIFIED="1556210361686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/toutiao" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ico.py" />
@@ -321,20 +369,101 @@
     <entry file="file://$PROJECT_DIR$/index.py" />
     <entry file="file://$PROJECT_DIR$/maoyanMovie/index.py" />
     <entry file="file://$PROJECT_DIR$/zhihu.py" />
+    <entry file="file://$PROJECT_DIR$/maoyanMovie/result.txt" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toutiao/img/何穗的衣品24小时都在线！网友：我要有这身材也天天这样穿！/c3d436e4174580c0bc69f1f731fa7f13.jpg" />
+    <entry file="file://$PROJECT_DIR$/toutiao/img/女人帅起来，真没男人什么事儿！穿西装最帅的女星TOP10，你中意哪一个/2d58b2063d634804ab9f8c2d2403240d.jpg" />
+    <entry file="file://$PROJECT_DIR$/toutiao/img/女人帅起来，真没男人什么事儿！穿西装最帅的女星TOP10，你中意哪一个/9dd941684f4ee229a0e0fd6f3b29cd84.jpg" />
+    <entry file="file://$PROJECT_DIR$/toutiao/img/女人帅起来，真没男人什么事儿！穿西装最帅的女星TOP10，你中意哪一个/823786b917756b3ca90e5f1eef7734d0.jpg" />
+    <entry file="file://$PROJECT_DIR$/toutiao/img/女人帅起来，真没男人什么事儿！穿西装最帅的女星TOP10，你中意哪一个/f75fe9f91aa5c484e511350cc4ce0858.jpg" />
+    <entry file="file://$PROJECT_DIR$/toutiao/img/男星私服街拍大比拼，明星也有很接地气的时候！/f5a29a84658f8ba5a14c6cd12225254a.jpg" />
+    <entry file="file://$PROJECT_DIR$/toutiao/img/车尾挂满公仔的思域EF，大家觉得车主今年多少岁？丨街拍投稿24期/03d9157cf9583f70cf5760e3eb38454a.jpg" />
+    <entry file="file://$PROJECT_DIR$/toutiao/img/1：24模型一组，日系性能怀旧/428837724dcc35bd5a0066f71c7cc07f.jpg" />
+    <entry file="file://$PROJECT_DIR$/toutiao/img/1：24模型一组，日系性能怀旧/37fa047e42753f6bbde52e0ddf078914.jpg" />
+    <entry file="file://$PROJECT_DIR$/toutiao/img/1：24模型一组，日系性能怀旧/7e88b3d8e746f03c31bce175d4c43497.jpg" />
+    <entry file="file://$PROJECT_DIR$/toutiao/img/1：24模型一组，日系性能怀旧/0e3bd78bb176bce4f9494e944d36953e.jpg" />
+    <entry file="file://$PROJECT_DIR$/toutiao/img/车尾挂满公仔的思域EF，大家觉得车主今年多少岁？丨街拍投稿24期/6b9d98b8820c51d91399662f1c371377.jpg" />
+    <entry file="file://$PROJECT_DIR$/toutiao/img/车尾挂满公仔的思域EF，大家觉得车主今年多少岁？丨街拍投稿24期/2f9fa4fe5be4c3236ddfe25dcf72abda.jpg" />
+    <entry file="file://$PROJECT_DIR$/toutiao/img/男星私服街拍大比拼，明星也有很接地气的时候！/3838e925f39325c87e8d3ec41f698aba.jpg" />
+    <entry file="file://$PROJECT_DIR$/toutiao/img/男星私服街拍大比拼，明星也有很接地气的时候！/5a6cd4829b2d83c55fa69730663cc14e.jpg" />
+    <entry file="file://$PROJECT_DIR$/toutiao/index.py" />
+    <entry file="file://$PROJECT_DIR$/toutiao/img/何穗的衣品24小时都在线！网友：我要有这身材也天天这样穿！/20b350957f58ab6002e365f3bf50e8a4.jpg" />
+    <entry file="file://$PROJECT_DIR$/toutiao/img/何穗的衣品24小时都在线！网友：我要有这身材也天天这样穿！/4f685fc30faf5c2dd29909a75bc102e3.jpg" />
+    <entry file="file://$PROJECT_DIR$/toutiao/jiepai.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="24" column="73" selection-start-line="24" selection-start-column="73" selection-end-line="24" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaobaoProduct/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaobaoProduct/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/maoyanMovie/MaoYan.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+        <state relative-caret-position="513">
+          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaobaoProduct/ghostdriver.log">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaobaoProduct/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Python3.7/Lib/site-packages/selenium/webdriver/support/wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaobaoProduct/spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="41" column="84" lean-forward="true" selection-start-line="41" selection-start-column="84" selection-end-line="41" selection-end-column="84" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#2194#2385#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maoyanMovie/result.txt">
+    <entry file="file://$PROJECT_DIR$/qiuzhi/config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qiuzhi/qiuzhi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#4#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
